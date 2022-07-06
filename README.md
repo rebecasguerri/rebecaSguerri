@@ -4,7 +4,7 @@
     <table align="center">
         <tr>
             <td>🔭 Atualmente trabalho com Front-end </td>
-            <td> 🌱 Estou estudando Javascript</td>
+            <td> 🌱 Atualmente estudando Javascript</td>
             <td>😄 Pronomes: ela/dela</td>
         </tr>
     </table>
