@@ -3,7 +3,7 @@
  <div>
     <table align="center">
         <tr>
-            <td>🔭 Atualmente trabalho com Front-end </td>
+            <td>🔭 trabalhando com Front-end </td>
             <td> 🌱 Atualmente estudando Javascript</td>
             <td>😄 Pronomes: ela/dela</td>
         </tr>
