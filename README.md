@@ -5,7 +5,6 @@
         <tr>
             <td>🔭 trabalhando com Front-end </td>
             <td> 🌱 Atualmente estudando Javascript</td>
-            <td>😄 Pronomes: ela/dela</td>
         </tr>
     </table>
 </div>
