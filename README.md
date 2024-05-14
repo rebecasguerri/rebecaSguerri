@@ -1,12 +1,5 @@
-<h1 align="center">Olá, sou Rebeca 🌠</h1>
-
- <div>
-    <table align="center">
-        <tr>
-            <td>🔭 trabalhando com Front-end </td>
-        </tr>
-    </table>
-</div>  
+<h1 align="left">Hii, I'm Rebeca Freitas 🌠</h1>
+  
 <div align="center">
     <div>
         <img align="center" alt="HTML" height="30" width="40" src='icons/HTML.svg'>
