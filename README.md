@@ -28,7 +28,7 @@ const rebeca: Record<string, string | string[]> = {
 <details>
   <summary>Github Stats </summary>
 <div align="center">
-   <img align="center" src="https://simple-github-stats.vercel.app/?user=rebecasguerri&date=21/02/2022" />
+   <img align="center" src="https://simple-github-stats.vercel.app/?user=rebecasguerri" />
 </div>
   
 </details>
