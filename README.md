@@ -7,7 +7,7 @@ const rebeca: Record<string, string | string[]> = {
   work: "A front-end programmer and software engineer student",
   learning: ["typescript"],
   education: ["Software engineer", "UNIamerica"],
-  mainTecnologies: ["React" , "Javascript", "HTML", "CSS", "GIT"]
+  mainTecnologies: ["React" , "Javascript", "GIT"]
 };
 ```
 <br>
